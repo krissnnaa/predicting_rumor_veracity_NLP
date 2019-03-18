@@ -18,3 +18,5 @@ Steps:
 2) post-processing module of decision rules => as given above
 3) training => maximum entropy classifier followed by decision tree
 4) Data size => Trainining (272 each tweets) and Test (28 each tweets)
+
+**You should try to use newer models to train these data ***
